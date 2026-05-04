@@ -214,19 +214,7 @@ interface FastEthernet0/2
 ## 🖼 Screenshots
 
 ### Full Topology Overview
-![Full Topology](screenshots/topology_overview.png)
-
-### Static Routing
-![Static Routing](screenshots/static_routing.png)
-
-### OSPF
-![OSPF](screenshots/ospf.png)
-
-### EIGRP
-![EIGRP](screenshots/eigrp.png)
-
-### BGP
-![BGP](screenshots/bgp.png)
+![Full Topology](screenshot/topology_overview.png)
 
 > 📁 Add your Packet Tracer screenshots to the `screenshots/` folder and they will appear here automatically.
 
@@ -237,10 +225,11 @@ interface FastEthernet0/2
 ```
 cisco-routing-protocols/
 │
-├── Static_Routing.pkt          # Static route configuration
-├── OSPF_Routing.pkt            # OSPF Area 0 configuration
-├── EIGRP_Routing.pkt           # EIGRP AS 100 configuration
-├── BGP_Routing.pkt             # EBGP AS 1/2/3 configuration
+│── Cisco-MultiProtocol-Routing-Lab.pkt.pkt 
+├── Static.pkt          # Static route configuration
+├── OSPF.pkt            # OSPF Area 0 configuration
+├── EIGRP.pkt           # EIGRP AS 100 configuration
+├── BGP.pkt             # EBGP AS 1/2/3 configuration
 │
 ├── screenshots/
 │   └── topology_overview.png   # Full topology screenshot
