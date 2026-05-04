@@ -225,7 +225,7 @@ interface FastEthernet0/2
 ```
 cisco-routing-protocols/
 │
-│── Cisco-MultiProtocol-Routing-Lab.pkt.pkt 
+│── Cisco-MultiProtocol-Routing-Lab.pkt
 ├── Static.pkt          # Static route configuration
 ├── OSPF.pkt            # OSPF Area 0 configuration
 ├── EIGRP.pkt           # EIGRP AS 100 configuration
