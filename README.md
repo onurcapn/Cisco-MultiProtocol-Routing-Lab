@@ -268,9 +268,8 @@ cisco-routing-protocols/
 
 ## 👨‍💻 Author
 
-**Onur**  
+**Onur Çapan**  
 Software Engineering Student  
-Konya Food and Agriculture University (KFAU / Konya Gıda ve Tarım Üniversitesi)
 
 ---
 
