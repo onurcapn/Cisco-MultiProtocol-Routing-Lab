@@ -1,6 +1,6 @@
 # 🌐 Cisco Packet Tracer — Routing Protocols Comparison
 
-![Network Topology](screenshots/topology_overview.png)
+![Network Topology](screenshot/topology_overview.png)
 
 > **A comparative network simulation project** implementing Static Routing, OSPF, EIGRP, and BGP on identical topologies using Cisco Packet Tracer, with Inter-VLAN Routing and centralized DHCP.
 
